@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Katyutzka
+- 👋 Hi, I’m Katyutzka, I´m not Russian.
 - 👀 I’m an undergraduate student at chemistry and an eternal learner 
 - 🌱 I’m currently learning python
-- 📫 How to reach me Fb:Katyutzka Banhart Ig:heroe_del_sabado
+- 📫 How to reach me Fb:Katyutzka Kujo Ig:heroe_del_sabado
 
 <!---
 Katyutzkaplur/Katyutzkaplur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
