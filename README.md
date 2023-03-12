@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://katyutzkaplur.github.io/](https://katyutzkaplur.github.io/)
+- 👩🏽‍💻 All of my projects are available at [https://katyutzkaplur.github.io/](https://katyutzkaplur.github.io/)
 
 - 📫 How to reach me **katyutzka2010@gmail.com**
 
